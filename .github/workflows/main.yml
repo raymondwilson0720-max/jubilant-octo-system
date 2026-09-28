@@ -1,4 +1,3 @@
-  workflow_dispatch:
 jobs:
   secure-rdp:
     runs-on: windows-latest
